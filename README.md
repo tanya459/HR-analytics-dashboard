@@ -84,7 +84,7 @@ The **Up to 5K** salary slab has the highest displayed attrition count (**163**)
 
 The dashboard combines multiple visualizations and KPI cards to provide an overall view of employee attrition and workforce characteristics.
 
-## 💡 Key Insights
+## Key Insights
 
 Based on the dashboard:
 
